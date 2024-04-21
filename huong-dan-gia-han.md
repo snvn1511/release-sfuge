@@ -14,4 +14,5 @@ Bank: Vietcombank chi nhánh Thăng Long
 Nội dung chuyển khoản: SFUGE Số_điện_thoại
 ```
 Sau khi chuyển khoản hãy gửi mã code trên phần mềm và thông tin chuyển khoản vào email **snvn1511@gmail.com** để được gia hạn.
+## Chi phí gia hạn: 50 000đ/12tháng.
 ## Thông tin hỗ trợ khác liên hệ qua email hoặc số điện thoại: 0968902116
