@@ -1,6 +1,7 @@
 # Hướng dẫn đăng ký sử dụng phần mềm SFUGE
 ## Bước 1 - Dùng thử lần đầu:
 Trên giao diện phần mềm có hiện mã code để đăng ký, hãy copy chuỗi mã code đó gửi yêu cầu đăng ký vào email: **snvn1511@gmail.com** hoặc zalo: 0968902116
+
 Tiêu đề thư ghi: **SFUGE-họ_và_tên**
 
 Thời hạn dùng thử là 3 tháng kể từ ngày kích hoạt phần mềm.
